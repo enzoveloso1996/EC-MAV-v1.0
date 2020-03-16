@@ -4307,7 +4307,6 @@ screen and (-ms-high-contrast:active) {
     padding-top: 42px;
     position: absolute;
     background: #fff;
-    box-shadow: 0 0 0 2px #36c;
     border-radius: 2px;
     top: 0
 }
@@ -5567,9 +5566,9 @@ screen and (-ms-high-contrast:active) {
 
 .nav-panel {
     height: 54px;
-    background: #36c;
+    background: #010326;
     box-shadow: 0 1px rgba(0, 0, 0, .04), inset 0 -1px rgba(0, 0, 0, .04);
-    color: #fff
+    color: whitesmoke;
 }
 
 .nav-panel--stuck {
@@ -6158,8 +6157,8 @@ screen and (-ms-high-contrast:active) {
 .site-header {
     position: relative;
     z-index: 100;
-    background: #36c;
-    color: #fff
+    background: #010326;
+    color: whitesmoke;
 }
 
 .site-header__middle {
@@ -6331,12 +6330,12 @@ screen and (-ms-high-contrast:active) {
 
 .topbar {
     height: 34px;
-    background: #36c;
+    background: #010326;
     box-shadow: none;
-    border-bottom: 1px solid #2e5cb8;
+    border-bottom: 2px solid #BF571B;
     font-size: 14px;
     line-height: 14px;
-    color: #9bf;
+    color: whitesmoke;
     position: relative;
     z-index: 20
 }
@@ -6597,12 +6596,13 @@ screen and (-ms-high-contrast:active) {
 
 .site-footer {
     margin-top: 16px;
-    background: transparent;
-    border-top: 1px solid #ebebeb
+    background: #010326;
+    color: whitesmoke;
+    border-top: 2px solid #BF571B
 }
 
 .site-footer__widgets {
-    padding: 48px 0 54px
+    padding: 48px 0 54px;
 }
 
 .site-footer__bottom {
