@@ -11,40 +11,36 @@
                     <div class="about-us__body">
                         <h1 class="about-us__title">About Us</h1>
                         <div class="about-us__text typography">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus metus,
-                                convallis ut leo nec, tincidunt eleifend justo. Ut felis orci, hendrerit a
-                                pulvinar et, gravida ac lorem. Sed vitae molestie sapien, at sollicitudin
-                                tortor.</p>
-                            <p>Duis id volutpat libero, id vestibulum purus.Donec euismod accumsan felis,egestas
-                                lobortis velit tempor vitae. Integer eget velit fermentum, dignissim odio non,
-                                bibendum velit.</p>
+                            <p>Founded by its General Manager, Maria Lovelin Tactacan Petalino,
+                                MAVESON ENTERPRISE was officially registered int the Department
+                                of Trade and Industry (DTI) on October 23, 2003, the day when the
+                                dream of growing in Diagnostic Field has started. It's Business in
+                                Human Diagnostics extended to Veterenary market all over the Philippines 
+                                by its Direct Sales and Reputable Sub Dealers. The company has completed its
+                                products from the Field of Immunology, Serology, Caogulation, Chemistry, 
+                                Hospital Equipments, Laboratory Supplies and Consumables through its dedication 
+                                to offer the widest range of diagnostic supply nationwide.
+                            </p>
+                            <p>In partnership with our suppliers, I-Sens Inc, Precision Biotechnology, Zoncare, ERBA, 
+                                Futura System Group, Skyla Corporation, Boule Diagnostics, JAJ International, DFI, 
+                                Humasis and the strength of our dedicated employees in delivering excelent after sales 
+                                service for the satisfaction of our clients, out mission and vision was formed.
+                            </p>
                         </div>
                         <div class="about-us__team">
-                            <h2 class="about-us__team-title">Meat Our Team</h2>
-                            <div class="about-us__team-subtitle text-muted">Want to work in our friendly
-                                team?<br><a href="contact-us.html">Contact us</a> and we will consider your
-                                candidacy.</div>
-                            <div class="about-us__teammates teammates">
-                                <div class="owl-carousel">
-                                    <div class="teammates__item teammate">
-                                        <div class="teammate__avatar"><img src="images/teammates/teammate-1.jpg"
-                                                alt=""></div>
-                                        <div class="teammate__name">Michael Russo</div>
-                                        <div class="teammate__position text-muted">Chief Executive Officer</div>
-                                    </div>
-                                    <div class="teammates__item teammate">
-                                        <div class="teammate__avatar"><img src="images/teammates/teammate-2.jpg"
-                                                alt=""></div>
-                                        <div class="teammate__name">Katherine Miller</div>
-                                        <div class="teammate__position text-muted">Marketing Officer</div>
-                                    </div>
-                                    <div class="teammates__item teammate">
-                                        <div class="teammate__avatar"><img src="images/teammates/teammate-3.jpg"
-                                                alt=""></div>
-                                        <div class="teammate__name">Anthony Harris</div>
-                                        <div class="teammate__position text-muted">Finance Director</div>
-                                    </div>
-                                </div>
+                            <h2 class="about-us__team-title">Mission</h2>
+                            <div class="about-us__text typography">
+                                <p>
+                                    MAVESON ENTERPRISE is dedicated in providing Innovation in Diagnostic Testing yet 
+                                    affordable Healthcare products for Philippine market.
+                                </p>
+                            </div>
+                            <h2 class="about-us__team-title">Vision</h2>
+                            <div class="about-us__text typography">
+                                <p>
+                                    MAVESON ENTERPRISE aims to be included in the trusted and well known Distributor of  
+                                    Laboratory and Hospital Supplies in the country.
+                                </p>
                             </div>
                         </div>
                     </div>
