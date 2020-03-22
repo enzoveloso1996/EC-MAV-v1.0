@@ -35,6 +35,8 @@
                                     affordable Healthcare products for Philippine market.
                                 </p>
                             </div>
+                        </div>
+                        <div class="about-us__team">
                             <h2 class="about-us__team-title">Vision</h2>
                             <div class="about-us__text typography">
                                 <p>
